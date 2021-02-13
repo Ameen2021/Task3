@@ -31,6 +31,7 @@ public class Task3 {
               System.out.println(Math.abs(array[i]));
         }
     }
+
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         Task3 t=new Task3();
